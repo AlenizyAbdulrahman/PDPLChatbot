@@ -15,7 +15,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.prompts import PromptTemplate
 
 # === Setup ===
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 st.set_page_config(page_title="PDPL Legal Assistant", layout="wide")
 st.title("🛡️ PDPL Legal Assistant Chatbot")
 
