@@ -59,8 +59,10 @@ The **PDPL Chatbot** is an AI-powered assistant designed to help users understan
 
 ## 👤 Author
 
-**Abdulrahman Alenizy**  
+**Abdulrahman Alenizy** 
+
 Senior AI Engineer
+
 📧 [alenizyabdulrahman@outlook.com](mailto:alenizyabdulrahman@outlook.com)  
 🔗 [Linkedin](https://www.linkedin.com/in/abdulrahman-alenizy-51150a220/)
 
