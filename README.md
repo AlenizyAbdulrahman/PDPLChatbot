@@ -49,12 +49,46 @@ pip install -r requirements.txt
 streamlit run second-app.py
 
 
+---
+
+## 📋 How It Works
+- PDF Loader – Loads and parses PDPL documents into chunks
+
+- Embedding Engine – Converts text chunks into vector embeddings
+
+- Vector Store – Stores and searches relevant legal chunks
+
+- RAG Pipeline – Uses user query + relevant chunks to generate an answer
+
+- LLM Response – Final answer is generated and returned through Streamlit
+
+---
+
+## ✅ Use Cases
+- Legal and compliance teams verifying PDPL rules
+
+- Internal staff training on data privacy regulations
+
+- Developers embedding privacy-by-design practices
+
+- General public inquiries on PDPL rights and obligations
+
+---
+
 ## 👤 Author
 
 **Abdulrahman Alenizy**  
-Senior AI Engineer 
-📧 [alenizyabdulrahman@outlook.com](mailto:alenizyabdulrahman@outlook.com)
+Senior AI Engineer, Arab National Bank  
+📧 [alenizyabdulrahman@outlook.com](mailto:alenizyabdulrahman@outlook.com)  
 🔗 [Linkedin](https://www.linkedin.com/in/abdulrahman-alenizy-51150a220/)
+
+---
+
+## ⚠️ Disclaimer
+
+This chatbot is an educational and assistive tool. It **does not constitute legal advice**.  
+For official interpretation of PDPL regulations, consult the Saudi Data & Artificial Intelligence Authority (SDAIA) or a licensed legal advisor.
+
 
 
 
