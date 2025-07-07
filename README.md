@@ -15,7 +15,7 @@ The **PDPL Chatbot** is an AI-powered assistant designed to help users understan
 - 💬 Natural language Q&A based on official PDPL legal documents
 - 🔍 Accurate retrieval using document chunking and embedding
 - 🧾 Handles PDF regulations and extracts relevant legal context
-- 🌐 Arabic & English support (if applicable)
+- 🌐 Arabic & English support
 - 🛡️ Ensures regulatory compliance and mitigates hallucinations with guardrails
 
 ---
