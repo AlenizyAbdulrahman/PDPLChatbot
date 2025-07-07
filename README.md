@@ -47,3 +47,15 @@ pip install -r requirements.txt
 
 # Run the app
 streamlit run second-app.py
+
+
+## 👤 Author
+
+**Abdulrahman Alenizy**  
+Senior AI Engineer 
+📧 [alenizyabdulrahman@outlook.com](mailto:alenizyabdulrahman@outlook.com)
+🔗 [Linkedin](https://www.linkedin.com/in/abdulrahman-alenizy-51150a220/)
+
+
+
+
