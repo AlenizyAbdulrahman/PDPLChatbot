@@ -29,42 +29,24 @@ The **PDPL Chatbot** is an AI-powered assistant designed to help users understan
 - **Embedding**: OpenAIEmbeddings
 - **Document Source**: Official PDPL PDFs
 
----
-
-## 📦 Installation (For Local Development)
-
-```bash
-# Clone the repository
-git clone https://github.com/AlenizyAbdulrahman/PDPLChatbot.git
-cd PDPLChatbot
-
-# Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run second-app.py
-
-
----
+  ---
 
 ## 📋 How It Works
-- PDF Loader – Loads and parses PDPL documents into chunks
 
-- Embedding Engine – Converts text chunks into vector embeddings
+- **PDF Loader** – Loads and parses PDPL documents into chunks
 
-- Vector Store – Stores and searches relevant legal chunks
+- **Embedding Engine** – Converts text chunks into vector embeddings
 
-- RAG Pipeline – Uses user query + relevant chunks to generate an answer
+- **Vector Store** – Stores and searches relevant legal chunks
 
-- LLM Response – Final answer is generated and returned through Streamlit
+- **RAG Pipeline** – Uses user query + relevant chunks to generate an answer
+
+- **LLM Response** – Final answer is generated and returned through Streamlit
 
 ---
 
 ## ✅ Use Cases
+
 - Legal and compliance teams verifying PDPL rules
 
 - Internal staff training on data privacy regulations
@@ -88,6 +70,28 @@ Senior AI Engineer, Arab National Bank
 
 This chatbot is an educational and assistive tool. It **does not constitute legal advice**.  
 For official interpretation of PDPL regulations, consult the Saudi Data & Artificial Intelligence Authority (SDAIA) or a licensed legal advisor.
+
+---
+
+## 📦 Installation (For Local Development)
+
+```bash
+# Clone the repository
+git clone https://github.com/AlenizyAbdulrahman/PDPLChatbot.git
+cd PDPLChatbot
+
+# Create a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the app
+streamlit run second-app.py
+
+
+
 
 
 
